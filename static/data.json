@@ -1,0 +1,10 @@
+{
+	"status":0,
+	"list":[
+		{"name":"Alex","pos":"BH","work":"teacher"},
+		{"name":"Terry","pos":"HE","work":"doctor"},
+		{"name":"Gory","pos":"WG","work":"pumper"},
+		{"name":"Nina","pos":"HP","work":"elector"}
+	]
+}
+
